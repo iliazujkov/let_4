@@ -7,6 +7,8 @@ struct MobilePhone
     double price;
         };
 
+/// лишние файлы в репозитории
+/// неправильное оформление
 int main() {
     int n;
     std::cin >> n;
