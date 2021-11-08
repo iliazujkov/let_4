@@ -1,3 +1,0 @@
-/home/a/CLionProjects/letuchka4/build/CMakeFiles/edit_cache.dir
-/home/a/CLionProjects/letuchka4/build/CMakeFiles/rebuild_cache.dir
-/home/a/CLionProjects/letuchka4/build/CMakeFiles/letuchka4.dir
