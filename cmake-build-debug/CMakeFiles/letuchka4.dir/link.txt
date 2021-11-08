@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -rdynamic CMakeFiles/letuchka4.dir/letuchka4/main.cpp.o -o letuchka4 
